@@ -1,3 +1,8 @@
+/**
+ * SRM Quiz Task - Backend Integration Assignment
+ * Submitted for: Bajaj Finserv Health JAVA Qualifier
+ * * Note: Designed to run with zero external dependencies using core Java 11+.
+ */
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
